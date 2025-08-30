@@ -1,13 +1,14 @@
 ---
 id:
-title: Obsidianのブログ構築
+title: Obsidianのブログ構築2
 draft: false
+permalink:
+aliases:
+author: Keita Takao
+date: 2025-08-23T10:38
 created: 2025-08-23T10:38
-updated: 2025-08-25T10:09
+updated: 2025-08-30T11:49
 ---
-
-
-
 
 # Obsidianのブログ構築
 

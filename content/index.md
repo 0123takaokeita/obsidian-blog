@@ -11,7 +11,7 @@ draft: false
 author: Keita Takao
 date: 2025-09-06
 created: 2025-08-23T10:38
-updated: 2025-09-07T00:41
+updated: 2025-09-09T09:59
 ---
 
 ## ようこそ
@@ -32,6 +32,7 @@ updated: 2025-09-07T00:41
  - [ ] 記事のFooterやTopに最近の記事
  - [ ] 画像の自動デプロイ
  - [ ] お問い合わせ
- - [ ] カテゴリ自動表示
+ - [ ] カテゴリ表示
+ - [ ] eyecatch画像 og:image
 
 
